@@ -1,0 +1,118 @@
+/* Event Name : Rhythm of the Divine
+Venue : Sri Nivasa, 4th Floor
+Date : Oct 1st, Wednesday
+Time : 4pm
+Duration : 45 min
+Performed by : Varnika , Lahari , Sahana , Shreevalli [sorted]
+Anchoring : Govardhan
+Photography : Lavanya
+Volunteers : Jayasimha & Narasimha
+Designing : Gangadhar
+About the Event : A curated Bharathanatyam performance on the Occasion of Dasara! */
+
+body {
+    background-color: #d7f1dd;
+}
+.heading {
+    font-style: italic;
+    font-family: Aphrodite;
+    color: hsla(123, 100%, 10%, 0.785);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+.invitation {
+  border: 8px double black;
+  border-radius: 24px;
+  padding: 32px;
+  margin: 40px auto;
+  background: #d7f1dd;
+  box-shadow: 0 0 16px rgba(191,162,108,0.11);
+  max-width: 600px;
+}
+.invitation2 {
+  border: 8px double hsla(123, 100%, 10%, 0.785);
+  border-radius: 24px;
+  padding: 32px;
+  margin: 40px auto;
+  background: #f7f8d5;
+  box-shadow: 0 0 16px rgba(191,162,108,0.11);
+  max-width: 600px;
+}
+.invitation3 {
+  border: 8px double hsla(123, 100%, 10%, 0.785);
+  border-radius: 24px;
+  padding-top: 0;
+  padding-left: 32px;
+  padding-bottom: 32px;
+  padding-right: 32px;
+  margin: 40px auto;
+  background: #f7f8d5;
+  box-shadow: 0 0 16px rgba(191,162,108,0.11);
+  max-width: 600px;
+}
+.details {
+  position: absolute;
+  top: 34%;
+  left: 46%;
+font-weight: 800;
+}
+.venue {
+  position: absolute;
+  top: 42%;
+  left: 40%;
+font-weight: 800;
+}
+.date {
+  position: absolute;
+  top: 47=6%;
+  left: 40%;
+font-weight: 800;
+}
+.timings {
+  position: absolute;
+  top: 49.3%;
+  left: 40%;
+  font-weight: 800;
+}
+.performers {
+  position: absolute;
+  top: 70.5%;
+  left: 40%;
+font-weight: 800;
+}
+.anchoring {
+  position: absolute;
+  top: 73.75%;
+  left: 40%;
+  font-weight: 800;
+}
+.photography {
+  position: absolute;
+  top: 76.75%;
+  left: 40%;
+  font-weight: 800;
+}.volunteers {
+  position: absolute;
+  top: 80%;
+  left: 40%;
+font-weight: 800;
+}
+.designing {
+  position: absolute;
+  left: 40%;
+font-weight: 800;
+}
+.message {
+  font-size: 32;
+  font-style: italic;
+  font-weight: 900;
+}
+.dancer {
+  position: absolute;
+  top: 7%;
+  left: 31.5%;
+}
+.dancer2 {
+  position: absolute;
+  top: 7%;
+  right: 31.5%;
+}
